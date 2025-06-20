@@ -1,0 +1,19 @@
+name: Main
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Release
+        uses: ncipollo/release-action@v1
+        with: 
+          makeLatest: true
+          artifacts: "*.7z"
+          bodyFile: "ReleaseMessage.md"
