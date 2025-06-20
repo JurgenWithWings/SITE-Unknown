@@ -1,5 +1,10 @@
-Version: 0.0.1
+Version: 0.0.2
 
 This is a pre-release development version. Any feedback is greatly appreciated.
 Feedback Link: https://forms.gle/WLB5bKBe9oixiHjH9
-Thank you for playing!
+Thank you for playing!<details>
+<summary>**Patch Notes**</summary>
+<br>
+- Fixed 173 chamber from not appearing in collision checks done by other rooms.
+- Added these sick patch notes as a tool in unity :)
+</details>
