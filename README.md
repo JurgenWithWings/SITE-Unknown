@@ -4,7 +4,7 @@
 
 # AREA: Unknown
 
-**Public Development Build**
+**Public Development Build (Very early development right now)**
 
 This is the landing place for all the minor development versions of AREA: Unknown.
 
@@ -27,6 +27,8 @@ Leaving feedback with your thoughts on the game is greatly appreciated and helps
 [Itch](https://jurgenwithwings.itch.io/area-unknown)
 
 [My Website](https://jurgenwithwings.uk)
+
+My Discord is: _unnnoticeable_, if you wouls like to message me about anything.
 
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/0fc34b34-a449-4f1a-8462-a6724617d795" alt="Working Title Studios" width="150"/>
