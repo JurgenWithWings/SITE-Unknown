@@ -28,7 +28,7 @@ Leaving feedback with your thoughts on the game is greatly appreciated and helps
 
 [My Website](https://jurgenwithwings.uk)
 
-My Discord is: _unnnoticeable_, if you wouls like to message me about anything.
+My Discord is: _unnnoticeable_, if you would like to message me about anything.
 
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/0fc34b34-a449-4f1a-8462-a6724617d795" alt="Working Title Studios" width="150"/>
