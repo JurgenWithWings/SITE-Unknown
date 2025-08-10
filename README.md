@@ -22,7 +22,7 @@ Leaving feedback with your thoughts on the game is greatly appreciated and helps
 
 [Give Feedback](https://forms.gle/6aFeLhHhA2zA8Gqv8)
 
-[Jira Board](https://jurgenwithwings.atlassian.net/jira/software/projects/AU/boards/1)
+[Progress Board](https://github.com/JurgenWithWings/AREA-Unknown/projects)
 
 [Itch](https://jurgenwithwings.itch.io/area-unknown)
 
